@@ -12,8 +12,8 @@ This project is a high-density agent simulation built in Modern C++ (C++17/20) u
 ### The Performance Benchmark
 By migrating from a naive $O(n^2)$ proximity check to a specialized **Quadtree Spatial Partitioning** architecture, I achieved a **200x increase in agent throughput**:
 
-*   **Baseline:** 50 Agents (Single-threaded, $O(n^2)$)
-*   **Optimized:** **10,000 Agents @ 400+ FPS** (Multithreaded, $O(n \log n)$)
+*   **Baseline:** 50 Agents (Single-threaded, $O(n^2)$ )
+*   **Optimized:** **10,000 Agents @ 400+ FPS** (Multithreaded, $O(n \log n)$ )
 
 ### Technical Deep Dive
 
